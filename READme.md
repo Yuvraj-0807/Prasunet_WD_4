@@ -1,5 +1,5 @@
 
-## Responsive Landing Page
+## Responsive Portfolio
 
 This README provides instructions on setting up and veiwing a portfolio built with HTML, CSS, and JavaScript 
 
@@ -10,7 +10,7 @@ This is a basic portfolio template that adapts its layout to different screen si
 **Technologies Used**
 
 * HTML: Provides the structure and content of the web page.
-* CSS: Styles the visual elements of the application.
+* CSS: Styles the visual elements of the website.
 * JavaScript: Adds interactivity and animations.
 
 **Requirements**
