@@ -1,4 +1,3 @@
-
 ## Responsive Portfolio
 
 This README provides instructions on setting up and veiwing a portfolio built with HTML, CSS, and JavaScript 
